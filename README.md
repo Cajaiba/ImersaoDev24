@@ -28,23 +28,9 @@ Este projeto simples e divertido tem como objetivo te conectar com seus atletas 
 ### Contribua com o projeto!
 Se você gostou do projeto e quer ajudar a melhorá-lo, fique à vontade para abrir um pull request. Toda contribuição é bem-vinda!
 
-**Para mais detalhes, consulte a documentação completa em:**
-[Link para a documentação completa, se houver]
+**Teste a aplicação agora:**
+(https://olimpiadas24.vercel.app/)
 
 **Palavras-chave:** #javascript #html #css #olimpíadas #desenvolvimentoweb #open-source
 
-[**Imagem demonstrativa da aplicação**]
-
-### **Comece a explorar o mundo dos esportes hoje mesmo!** 
-
-**Observações:**
-
-* **Formatação Markdown:** Usei negrito, itálico, listas, links e cabeçalhos para organizar o conteúdo.
-* **Chamada para ação:** Incentive os usuários a contribuírem com o projeto.
-* **Imagem:** Adicione uma imagem para tornar o README mais visualmente atraente.
-* **Links:** Inclua links para a documentação completa e para outros recursos relevantes.
-* **Palavras-chave:** Utilize palavras-chave para facilitar a busca do seu repositório.
-
-**Com este README.md mais completo, você terá um repositório mais profissional e atraente para outros desenvolvedores.**
-
-**Gostaria de adicionar mais alguma coisa?**
+![image](https://github.com/user-attachments/assets/3c0a1bae-8aef-413b-b8be-bb614aa52879)
